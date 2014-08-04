@@ -43,7 +43,7 @@ map ,jv :CtrlP app/views<CR>
 map ,jh :CtrlP app/helpers<CR>
 map ,jl :CtrlP lib<CR>
 map ,jp :CtrlP public<CR>
-map ,js :CtrlP spec<CR>
+map ,js :CtrlP spec/unit<CR>
 map ,jf :CtrlP fast_spec<CR>
 map ,jd :CtrlP db<CR>
 map ,jC :CtrlP config<CR>
